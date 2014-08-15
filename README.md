@@ -1,4 +1,6 @@
 Homework
 ========
 
-Just Homework
+Just Homework.
+
+Just Do.
